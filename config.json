@@ -1,0 +1,12 @@
+{
+    "accountname": "xx_ilya",
+    "host": "mc.snowytime.space",
+    "port": 25565,
+    "proxyhost": "0.0.0.0",
+    "proxyport": 25565,
+    "version": "1.16.5",
+    "useGUI": true,
+    "GUIPort": 1487,
+    "funtimeMode": false,
+    "autosetPriority": true
+}

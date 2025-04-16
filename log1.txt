@@ -1,0 +1,108 @@
+Аутентификация успешна
+hot girls, добро пожаловать в Xameleon. Ваша подписка нас не ебет, это мы вас ебем, пользуйтесь.
+Консоль спрячется через секунду
+https://t.me/xameleonclient
+┌─────────────────┬──────────────────────┐
+│     (index)     │        Values        │
+├─────────────────┼──────────────────────┤
+│   accountname   │      'xx_ilya'       │
+│      host       │ 'mc.snowytime.space' │
+│      port       │        25565         │
+│    proxyhost    │      '0.0.0.0'       │
+│    proxyport    │        25565         │
+│     version     │       '1.16.5'       │
+│     useGUI      │         true         │
+│     GUIPort     │         1487         │
+│   funtimeMode   │        false         │
+│ autosetPriority │         true         │
+└─────────────────┴──────────────────────┘
+[Info] Запуск ГУИ
+[Info] Приоритет реального времени выставлен
+[Info] ГУИ сервер запущен
+[Server] Поднимаем прокси сервер
+[Server] Прокси готов к подключениям, заходи!
+[Info] Пинг: 40ms; Онлайн: 27/100
+Chunk size is 51 but only 3 was read ; partial packet : {"name":"legacy_server_list_ping","params":{"payload":1}}; buffer :fe0101fa000b004d0043007c00500069006e00670048006f0073007400157f00070030002e0030002e0030002e0030000063dd
+Disconnecting client because error Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:209:20) {
+  errno: -4077,
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+Chunk size is 51 but only 3 was read ; partial packet : {"name":"legacy_server_list_ping","params":{"payload":1}}; buffer :fe0101fa000b004d0043007c00500069006e00670048006f0073007400157f00070030002e0030002e0030002e0030000063dd
+Disconnecting client because error Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:209:20) {
+  errno: -4077,
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+Chunk size is 51 but only 3 was read ; partial packet : {"name":"legacy_server_list_ping","params":{"payload":1}}; buffer :fe0101fa000b004d0043007c00500069006e00670048006f0073007400157f00070030002e0030002e0030002e0030000063dd
+Disconnecting client because error Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:209:20) {
+  errno: -4077,
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+Chunk size is 51 but only 3 was read ; partial packet : {"name":"legacy_server_list_ping","params":{"payload":1}}; buffer :fe0101fa000b004d0043007c00500069006e00670048006f0073007400157f00070030002e0030002e0030002e0030000063dd
+Disconnecting client because error Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:209:20) {
+  errno: -4077,
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+Chunk size is 51 but only 3 was read ; partial packet : {"name":"legacy_server_list_ping","params":{"payload":1}}; buffer :fe0101fa000b004d0043007c00500069006e00670048006f0073007400157f00070030002e0030002e0030002e0030000063dd
+Disconnecting client because error Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:209:20) {
+  errno: -4077,
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+Chunk size is 51 but only 3 was read ; partial packet : {"name":"legacy_server_list_ping","params":{"payload":1}}; buffer :fe0101fa000b004d0043007c00500069006e00670048006f0073007400157f00070030002e0030002e0030002e0030000063dd
+Disconnecting client because error Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:209:20) {
+  errno: -4077,
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+Chunk size is 51 but only 3 was read ; partial packet : {"name":"legacy_server_list_ping","params":{"payload":1}}; buffer :fe0101fa000b004d0043007c00500069006e00670048006f0073007400157f00070030002e0030002e0030002e0030000063dd
+Disconnecting client because error Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:209:20) {
+  errno: -4077,
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+Chunk size is 51 but only 3 was read ; partial packet : {"name":"legacy_server_list_ping","params":{"payload":1}}; buffer :fe0101fa000b004d0043007c00500069006e00670048006f0073007400157f00070030002e0030002e0030002e0030000063dd
+Disconnecting client because error Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:209:20) {
+  errno: -4077,
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+Chunk size is 51 but only 3 was read ; partial packet : {"name":"legacy_server_list_ping","params":{"payload":1}}; buffer :fe0101fa000b004d0043007c00500069006e00670048006f0073007400157f00070030002e0030002e0030002e0030000063dd
+Disconnecting client because error Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:209:20) {
+  errno: -4077,
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+Chunk size is 51 but only 3 was read ; partial packet : {"name":"legacy_server_list_ping","params":{"payload":1}}; buffer :fe0101fa000b004d0043007c00500069006e00670048006f0073007400157f00070030002e0030002e0030002e0030000063dd
+Disconnecting client because error Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:209:20) {
+  errno: -4077,
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+Chunk size is 51 but only 3 was read ; partial packet : {"name":"legacy_server_list_ping","params":{"payload":1}}; buffer :fe0101fa000b004d0043007c00500069006e00670048006f0073007400157f00070030002e0030002e0030002e0030000063dd
+Disconnecting client because error Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:209:20) {
+  errno: -4077,
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+Chunk size is 51 but only 3 was read ; partial packet : {"name":"legacy_server_list_ping","params":{"payload":1}}; buffer :fe0101fa000b004d0043007c00500069006e00670048006f0073007400157f00070030002e0030002e0030002e0030000063dd
+Disconnecting client because error Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:209:20) {
+  errno: -4077,
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
